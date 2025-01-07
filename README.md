@@ -1,6 +1,6 @@
 # LangGraph Cloud Example
 
-![](static/agent_ui.png)
+<img width="1552" alt="Screenshot 2025-01-07 at 19 31 08" src="https://github.com/user-attachments/assets/d90cd50b-4947-493f-8c74-1cac81e01af5" />
 
 This is an example agent to deploy with LangGraph Cloud.
 
